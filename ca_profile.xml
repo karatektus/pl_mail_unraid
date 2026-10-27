@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Maintainer>
+  <Profile>Templates for plMail, a self-hosted mail client with a calendar beside it. Issues and questions: https://github.com/karatektus/pl_mail/issues</Profile>
+  <Icon>https://raw.githubusercontent.com/karatektus/pl_mail/main/public/icons/icon-512.png</Icon>
+  <WebPage>https://github.com/karatektus/pl_mail</WebPage>
+</Maintainer>
