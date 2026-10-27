@@ -16,7 +16,7 @@ Needs a PostgreSQL 18 container: install one first, then enter its address and p
 Serves plain HTTP. For HTTPS, put it behind your reverse proxy (SWAG, Nginx Proxy Manager).</Overview>
   <Category>Productivity: Network:Messenger</Category>
   <WebUI>http://[IP]:[PORT:80]/</WebUI>
-  <TemplateURL>https://raw.githubusercontent.com/karatektus/unraid-templates/main/templates/plmail.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/karatektus/pl_mail_unraid/main/templates/plmail.xml</TemplateURL>
   <Icon>https://raw.githubusercontent.com/karatektus/pl_mail/main/public/icons/icon-512.png</Icon>
   <ExtraParams>--init --restart=unless-stopped --stop-timeout=35</ExtraParams>
   <PostArgs/>
